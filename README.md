@@ -49,4 +49,3 @@ aplay -l
 ---
 
 Enjoy high-quality audio with your Raspberry Pi CM4! 🎶
-```
