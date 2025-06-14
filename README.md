@@ -44,7 +44,7 @@ aplay -l
 
 ## 📚 Useful Links
 - [Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/computers/raspberry-pi.html)
-- [WM8960 WiKi]([https://www.ti.com/product/WM8960](https://www.waveshare.com/wiki/WM8960_Audio_HAT))
+- [WM8960 WiKi](https://www.waveshare.com/wiki/WM8960_Audio_HAT)
 
 ---
 
